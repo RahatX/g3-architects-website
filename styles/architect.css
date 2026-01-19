@@ -261,7 +261,7 @@ main > section{
 
   }
   .footer-content p{
-    font-size: 0.5rem;
+    font-size: 0.8rem;
     padding: 10px 0px;
 
   }
@@ -287,5 +287,16 @@ main > section{
     margin-top: 20px;
   margin-left: 20px;
   }
+   .footer-content{
+    width: 90%;
+    margin: 50px auto;
+
+  }
+  .footer-content p{
+    /* font-size: 0.8rem; */
+    padding: 10px 0px;
+
+  }
+  
   
 }
